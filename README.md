@@ -6,9 +6,9 @@ Jogo de ping e pong minigame
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
    
-<h3 align='center'> 📈 Jogue esse jogo de ping pong de messa  </h3>
+<h3 align='center'> 🏓 Jogue esse jogo de ping pong de messa  </h3>
 
-## 📈 contexto 
+## 🏓 contexto 
 
 um mini ganme de ping pong criado em SCSS, bem divertido com puro CSS, criado atarvez de um curso com professor roberto me ajudou a entender mais sobre embelezamento do css e suas construções para objeto 
 
